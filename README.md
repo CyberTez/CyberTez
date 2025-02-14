@@ -16,8 +16,8 @@ I seeking to also increase my knowledge in network engineering/implementation an
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a ref="https://google.com">[add lab]</a>|
-| Network Traffic Monitoring and Attack Detection | <a ref="https://google.com">[add lab]</a>|
+| SIEM Implementation and Log Analysis          | <a ref="https://google.com">[will add lab]</a>|
+| Network Traffic Monitoring and Attack Detection | <a ref="https://google.com">[will add lab]</a>|
 
 
 ## Tools
